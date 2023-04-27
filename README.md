@@ -142,7 +142,7 @@ http://localhost:8080/coin/{id}
 
 ### 呼叫Coindesk API
 
-* [GET]查詢https://api.coindesk.com/v1/bpi/currentprice.json幣值並解析
+* [GET]查詢`https://api.coindesk.com/v1/bpi/currentprice.json`幣值並解析
 
 ```javascript
 http://localhost:8080/coin/desk
